@@ -1,0 +1,225 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://TonyCermak.github.io/meshes-deren/annotations/meshes-of-the-afternoon-canvas-1-key-in-mise-en-sc-ne.json",
+  "type": "AnnotationPage",
+  "label": "Key in mise-en-scéne",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon-canvas-1-key-in-mise-en-sc-ne-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "This is the first shot where we see the key. The woman is locked out of the house and she goes to open it with the key but the key slips out of her hand and bounces down to the bottom of the stairs. This is almost like the key is reluctant to even be used to open the door. It is rejecting the house and trying to escape. Almost like how the woman tries to escape later in the movie",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://TonyCermak.github.io/meshes-deren/meshes-of-the-afternoon/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://TonyCermak.github.io/meshes-deren/meshes-of-the-afternoon/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "67.0,87.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon-canvas-1-key-in-mise-en-sc-ne-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "In this shot the key is not featured, however it is notable that the woman is able to open the door this time without needing the key, implying that the door is already open for her and she doesn't need the key to unlock it. This seems like a good thing but it also seems like she is able to open the door because that is the only thing she can now open. She must enter the house because it is the only thing open to her now. Before the key represented almost limitless possibilities of doors to open but now all those other possible \"doors\" are closed to her.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://TonyCermak.github.io/meshes-deren/meshes-of-the-afternoon/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://TonyCermak.github.io/meshes-deren/meshes-of-the-afternoon/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "255.0,260.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon-canvas-1-key-in-mise-en-sc-ne-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "This double of the woman pulls the key out of her mouth and holds it in her hand as she views another copy of the woman coming up the stairs to the house. This is almost like the woman is offering the key to her future self both as an invitation but also as a burden.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://TonyCermak.github.io/meshes-deren/meshes-of-the-afternoon/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://TonyCermak.github.io/meshes-deren/meshes-of-the-afternoon/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "407.0,415.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon-canvas-1-key-in-mise-en-sc-ne-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "This third copy of the woman also does not need the key to open the door.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://TonyCermak.github.io/meshes-deren/meshes-of-the-afternoon/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://TonyCermak.github.io/meshes-deren/meshes-of-the-afternoon/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "415.0,416.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon-canvas-1-key-in-mise-en-sc-ne-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The third copy of the woman also pulls the key out of her mouth and holds it in her hand while watching yet another copy approach the house, however this time the key transforms into a knife. This is the last repetition of the cycle that the woman has been following throughout this whole film, suggesting that the key is somehow the thing that has been perpetuating this cycle, and to break free from this cycle the woman must transform the key into a weapon of escape, i.e. a knife.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://TonyCermak.github.io/meshes-deren/meshes-of-the-afternoon/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://TonyCermak.github.io/meshes-deren/meshes-of-the-afternoon/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "535.0,544.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon-canvas-1-key-in-mise-en-sc-ne-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "This final copy of the woman walks into the house not with a key but with a knife, and places it onto the table whereupon it transforms back into a key. This is representing the possible dual nature of the key.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://TonyCermak.github.io/meshes-deren/meshes-of-the-afternoon/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://TonyCermak.github.io/meshes-deren/meshes-of-the-afternoon/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "546.0,560.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon-canvas-1-key-in-mise-en-sc-ne-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The copies take turns picking up the key until one of them picks up the key and it transforms back into a knife. This transformation from key to knife and back again suggests that the key is almost like a double edged sword. It can provide both good through escape but also evil through imprisonment.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://TonyCermak.github.io/meshes-deren/meshes-of-the-afternoon/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://TonyCermak.github.io/meshes-deren/meshes-of-the-afternoon/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "560.0,600.0"
+        }
+      }
+    }
+  ]
+}

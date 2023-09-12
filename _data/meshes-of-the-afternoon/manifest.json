@@ -23,6 +23,16 @@
         "id": "https://TonyCermak.github.io/meshes-deren/meshes-of-the-afternoon/canvas-1/canvas",
         "type": "Canvas",
         "duration": 810.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://TonyCermak.github.io/meshes-deren/annotations/meshes-of-the-afternoon-canvas-1-key-in-mise-en-sc-ne.json",
+            "label": {
+              "none": ["Key in mise-en-scéne"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://TonyCermak.github.io/meshes-deren/meshes-of-the-afternoon/canvas-1/paintings",
